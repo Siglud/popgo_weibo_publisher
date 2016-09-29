@@ -1,0 +1,8 @@
+[default]
+# request url
+request_url = https://share.dmhy.org/topics/rss/team_id/134/rss.xml
+weibo_request_url = https://upload.api.weibo.com/2/statuses/upload.json
+app_key = APP KEY HERE
+access_token = ACCESS TOKEN HERE
+
+[pro]
